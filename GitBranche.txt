@@ -1,1 +1,4 @@
-Voici la 4ème version du fichier GitBranche.txt sur la branche MASTER ! 
+Voici la 4ème version du fichier GitBranche.txt sur la branche MASTER !
+ 
+Voici la PREMIERE version du fichier GitBranche.txt sur la branche BRANCHE-1 ! 
+
